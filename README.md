@@ -2,4 +2,4 @@
 
 Sup Anand here,
 
-hey everyone , currently focusing in react projects
+hey everyone , currently focusing in react projects.
